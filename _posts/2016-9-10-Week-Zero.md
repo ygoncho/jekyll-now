@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Zero: Logistics and Website set-up
+title: Week Zero- Logistics and Website set-up
 ---
 
 The purpose of this post is mostly to get to know some Markdown features and play around with text and images.
