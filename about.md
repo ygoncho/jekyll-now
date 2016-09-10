@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Yuval; currently (2016) I'm a second-year MBA Candidate at the Harvard Business School.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This website was mostly created to document my efforts as I go through the class [How to Make (almost) Anything](http://fab.cba.mit.edu/classes/863.16/) to which I am cross-registered at MIT. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please feel free to contact me through any of the below methods.
