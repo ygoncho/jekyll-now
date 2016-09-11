@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week One- Website set-up
+title: Week One\: Website set-up
 ---
 
 The purpose of this post is mostly to get to know some Markdown features and play around with text and images.
