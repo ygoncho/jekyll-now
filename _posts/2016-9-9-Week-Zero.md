@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Zero\: Who, what, why?
+title: Week Zero&#58; Who, what, why?
 ---
 
 What's this site about, and what I'll be posting.
