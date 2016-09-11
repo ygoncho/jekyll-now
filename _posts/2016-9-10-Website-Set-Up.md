@@ -30,11 +30,11 @@ At some point I noticed the site stopped updating; I've received an email from G
 1. Downloaded [RubyInstaller](http://rubyinstaller.org/downloads/)
 2. Downloaded [GitHub Desktop](https://desktop.github.com/)
 3. Cloned my project to my local computer
-4. [Built my site locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site).
-5. Commit, push to GitHub
+4. [Built my site locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site)
+5. Commited, pushed to GitHub
 
 That's how I finally figured out the error:
-This was because I used a colon ("\:") without the escape character \("\\"\) in the first Blog post. Lesson learned!
+This was because I used a colon - `:` - without the backslash escape character - `\:` - in the first Blog post. In the title, the escape character isn't enough and one must use the [HTML code](http://www.ascii.cl/htmlcodes.htm) for colon, `&#58;`. Lesson learned!
 
 I also found this very useful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
