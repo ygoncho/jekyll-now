@@ -71,7 +71,22 @@ Below are some snapshots of the process and final product (which is again, exact
 
 ![_config.yml]({{ site.baseurl }}/images/NewDispenser/AddedTube.png "AddedTube"){:height="300px"} ![_config.yml]({{ site.baseurl }}/images/NewDispenser/Wireframe.png "Wireframe"){:height="300px"} ![_config.yml]({{ site.baseurl }}/images/NewDispenser/Ghosted.png "Ghosted"){:height="300px"}
 
+### Additional touches
 
+At this point I decided to remodel the holders for the dispenser rather than use the two that I already have at home, hopefully with the intent of making this THE ULTIMATE DISPENSER later, and adding electronics, etc.
 
+The key feature here is the Boolean Difference tool that Rhino offers, as is explained in [this simple and effective tutorial](https://www.youtube.com/watch?v=Djh7ZSxuYYQ).
+
+Here's a list of additional things I did:
+
+* Added a USB socket. The actual socket itself was downloaded from [grabCAD](https://grabcad.com), an open source CAD library. I wrapped a box around it using the [BoundingBox](http://docs.mcneel.com/rhino/5/help/en-us/commands/boundingbox.htm) command and then extracted the box from the holder.
+
+* Added support for hanging: Again, I found a model of a classic hinge in grabCAD. This was a bit more tricky because I had to create parallel holes in the holder itself for the nails. what I did was build three small cylinders around the hinge, move them to the big holder and then run a boolean difference tool.
+
+Voila - the final product, TUTPD (The Ultimate Toilet Paper Dispenser) is now taking shape!
+
+[Modelo](beta.modelo.io) is a super cool free service that allows one to upload 3dm files and embed into websites. Here's the final product, for your pleasure:
+
+<iframe src="https://beta.modelo.io/embedded/iFDyXQYC-i?viewport=false&autoplay=false" width="640" height="360" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe>
 
 
