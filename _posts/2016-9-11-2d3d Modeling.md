@@ -17,14 +17,14 @@ Electronics will come later - today we're all about modeling.
 
 Here are some photos of the holder of what was once the dispenser. My aim, as a first step, is to fill in the missing piece.
 
-![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser1.jpg "OldDispenser1"){:height="200px"} ![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser2.jpg "OldDispenser2"){:height="200px"} 
-![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser3.jpg "OldDispenser3"){:height="200px"} ![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser4.jpg "OldDispenser4"){:height="200px"}
+![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser1.JPG "OldDispenser1"){:height="200px"} ![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser2.JPG "OldDispenser2"){:height="200px"} 
+![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser3.JPG "OldDispenser3"){:height="200px"} ![_config.yml]({{ site.baseurl }}/images/OldDispenser/OldDispenser4.JPG "OldDispenser4"){:height="200px"}
 
 ### Concept
 
 I started by just drawing for myself the basic dimensions:
 
-![_config.yml]({{ site.baseurl }}/images/NewDispenser/NewDispenserHandDrawn.jpg "NewDispenserHandDrawn"){:height="200px"} 
+![_config.yml]({{ site.baseurl }}/images/NewDispenser/NewDispenserHandDrawn.JPG "NewDispenserHandDrawn"){:height="200px"} 
 
 The base product will have an inner cylinder which will be able to fit the two metal pieces already mounted to my wall.
 It will actually be made of two smaller ones with a spring between them, to allow for easy insertion into the slot. 
