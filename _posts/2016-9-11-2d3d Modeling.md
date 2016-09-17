@@ -87,6 +87,5 @@ Voila - the final product, TUTPD (The Ultimate Toilet Paper Dispenser) is now ta
 
 [Modelo](beta.modelo.io) is a super cool free service that allows one to upload 3dm files and embed into websites. Here's the final product, for your pleasure:
 
-<iframe src="https://beta.modelo.io/embedded/iFDyXQYC-i?viewport=false&autoplay=false" width="640" height="360" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe>
-
+<iframe src="https://beta.modelo.io/embedded/ZZmhFPKvWj?viewport=false&autoplay=false" width="640" height="360" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe>
 
