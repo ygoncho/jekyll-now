@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week One&#58; 2D/3D Modeling
+title: Week One&#58; Final Project Thoughts
 ---
 
 Our assignment for the first week was to model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible final project, and post it on our class page.
