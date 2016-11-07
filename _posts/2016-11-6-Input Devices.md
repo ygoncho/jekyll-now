@@ -108,7 +108,7 @@ The next question is: How do we handle pins from the Arduino IDK?
 
 Too confusing, that I drew a little cheat sheet for myself:
 
-[![_config.yml]({{ site.baseurl }}/images/InputDevices/CheatSheetDigitalPinout.JPG "CheatSheetDigitalPinout"){:height="200px"}]({{ site.baseurl }}/images/MoldingCasting/CheatSheetDigitalPinout.JPG "CheatSheetDigitalPinout"){:height="300px"}
+[![_config.yml]({{ site.baseurl }}/images/InputDevices/CheatSheetDigitalPinout.JPG "CheatSheetDigitalPinout"){:height="200px"}]({{ site.baseurl }}/images/InputDevices/CheatSheetDigitalPinout.JPG "CheatSheetDigitalPinout"){:height="300px"}
 
 
 ## Code
@@ -158,12 +158,12 @@ The LED blinks to make sure we're alive, and we are reading the analog value of 
 
 When opening the comm port in room temperature settings, we see a fairly stable read:
 
-[![_config.yml]({{ site.baseurl }}/images/InputDevices/Regular.JPG "Regular"){:height="200px"}]({{ site.baseurl }}/images/MoldingCasting/Regular.JPG "Regular"){:height="300px"}
+[![_config.yml]({{ site.baseurl }}/images/InputDevices/Regular.JPG "Regular"){:height="200px"}]({{ site.baseurl }}/images/InputDevices/Regular.JPG "Regular"){:height="300px"}
 
 After I place my thumb on the sensors to heat them a little bit, we see the numbers going up:
 
-[![_config.yml]({{ site.baseurl }}/images/InputDevices/Touching.JPG "Touching"){:height="200px"}]({{ site.baseurl }}/images/MoldingCasting/Touching.JPG "Touching"){:height="300px"}
+[![_config.yml]({{ site.baseurl }}/images/InputDevices/Touching.JPG "Touching"){:height="200px"}]({{ site.baseurl }}/images/InputDevices/Touching.JPG "Touching"){:height="300px"}
 
 Here's the device:
 
-[![_config.yml]({{ site.baseurl }}/images/InputDevices/Yuval_Fabduino.JPG "Yuval_Fabduino"){:height="200px"}]({{ site.baseurl }}/images/MoldingCasting/Yuval_Fabduino.JPG "Yuval_Fabduino"){:height="300px"}
+[![_config.yml]({{ site.baseurl }}/images/InputDevices/Yuval_Fabduino.JPG "Yuval_Fabduino"){:height="200px"}]({{ site.baseurl }}/images/InputDevices/Yuval_Fabduino.JPG "Yuval_Fabduino"){:height="300px"}
