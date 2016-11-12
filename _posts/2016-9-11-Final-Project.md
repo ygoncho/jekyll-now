@@ -5,6 +5,14 @@ title: Week One&#58; Final Project Thoughts
 
 Our assignment for the first week was to model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible final project, and post it on our class page.
 
+### Update 11/11:
+
+After receiving feedback from Neil during the last class, I've decided to focus on two main features:
+
+* Rotation: At the push of a button, the cylinder will be able to rotate to a pre-determined extent
+
+* USB charging
+
 ### What should I model?
 
 My wife is always the one with the ideas. She suggested anything from minor trampolines to funky office supplies, but I am more practical: our toilet paper dispenser broke the other day; I felt it should be a good device to start learning with (some cylinders, a spring, and to-scale modeling)
