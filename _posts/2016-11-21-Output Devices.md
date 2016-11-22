@@ -2,6 +2,7 @@
 layout: post
 title: Week Eleven&#58; Output Devices
 ---
+
 Operating a motor and an LCD together with daughterboards
 
 ### Background
