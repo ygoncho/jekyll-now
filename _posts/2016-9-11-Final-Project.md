@@ -5,6 +5,10 @@ title: Week One&#58; Final Project Thoughts
 
 Our assignment for the first week was to model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible final project, and post it on our class page.
 
+### Update 21/11:
+
+Good progress this week - as detailed in the Output Devices Section. A bit more fine tuning required on electronics, but it's time to start thinking about the casing.
+
 ### Update 11/11:
 
 After receiving feedback from Neil during the last class, I've decided to focus on two main features:
