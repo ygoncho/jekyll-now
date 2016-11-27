@@ -31,6 +31,8 @@ For the host code, I chose Python and [Tkinter](https://wiki.python.org/moin/TkI
 
 [Here's the Python code]({{ site.baseurl }}/project_files/if.py)
 
+And here are the [On]({{ site.baseurl }}/images/Interface/on.bmp) and [Off]({{ site.baseurl }}/images/Interface/off.bmp) images.
+
 Here's how the interface looks:
 
 [![_config.yml]({{ site.baseurl }}/images/Interface/interface.png "interface"){:height="200px"}]({{ site.baseurl }}/images/Interface/interface.png "interface"){:height="300px"}
