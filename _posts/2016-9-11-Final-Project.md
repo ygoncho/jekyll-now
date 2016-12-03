@@ -5,7 +5,11 @@ title: Week One&#58; Final Project Thoughts
 
 Our assignment for the first week was to model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible final project, and post it on our class page.
 
-### Update 21/11:
+### Update 12/3:
+
+Added networking capabilities, as detailed in Networking Section. Main protocol determined, still need to rewrite code on the ATTINY44 on the step motor to allow clockwise and counterclockwise selection from the web interface.
+
+### Update 11/21:
 
 Good progress this week - as detailed in the Output Devices Section. A bit more fine tuning required on electronics, but it's time to start thinking about the casing.
 

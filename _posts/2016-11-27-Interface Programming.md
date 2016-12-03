@@ -21,7 +21,7 @@ My final project will not be using any interface programming (the only UI will b
 
 ### Code
 
-The C embedded code today is very simple; it accepts the serial character 'y' as a command to turn the LED on, and 'n' as a command to turn it on. Additionally, every time the button is pressed or the LED status changes, the button status is transmitted via the serial connection: '1' for on and '0' for off.
+The C embedded code today is very simple; it accepts the serial character 'y' as a command to turn the LED on, and 'n' as a command to turn it off. Additionally, every time the button is pressed or the LED status changes, the button status is transmitted via the serial connection: '1' for on and '0' for off.
 
 [Here's the Embedded C code]({{ site.baseurl }}/project_files/yuval2.c)
 
