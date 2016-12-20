@@ -24,7 +24,13 @@ The python library we are using is called gestalt. Why? Because:
 
 We met right after class in the CBA shop; I've never been there because I'm part of the Harvard section, and it was great to get a great tour from [Stefania](http://fab.cba.mit.edu/classes/863.16/section.CBA/people/Druga/index.html). I started on the wire cutting team and we created several wires for the machine. Later my hands were needed on some laser cutting and a lot of assembly.
 
-Our final project was to be able to follow Neil's face outline with a hot soldering pen to make a Neil Toast. I was among the last to leave and clean up after the first meeting, but unfortunately because of finals at HBS I could not attend the next group meeting.
+Our final project was to be able to follow Neil's face outline with a hot soldering pen to make a Neil Toast - we ended up writing "HTM" on the toast. 
+
+Another thing I did to help the team was figure out the right coordinates for the letters H-T-M. So I opened Rhino and used the Text command to create a 2d text image on the grid, then figured out the coordinates required for the machine. Overall there was a core group of us who got some really nice work done!
+
+Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/StRsGVhSj7k" frameborder="0" allowfullscreen></iframe>
 
 Photos:
 
